@@ -10,6 +10,7 @@ Note:
 To open the PiPv1.0.0----> Copy paste the adddress in your search bar.
 It will fetch you the result.
 
-For any issues/collaboration, contact administrator: snehangshudas@yandex.com
 Project's Principal investigator: Dr. Santanu Gupta (Division of Wetland Ecology, SACON, Coimbatore, TN)
 email: dr_sansacon@yahoo.com; santanu.gupta77@yahoo.com
+
+For any issues/collaboration, contact administrator: snehangshudas@yandex.com
