@@ -1,0 +1,1 @@
+mvn deploy -Dregistry=https://maven.pkg.github.com/snehangshudas -Dtoken=GH_TOKEN
