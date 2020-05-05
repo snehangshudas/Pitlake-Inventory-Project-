@@ -8,7 +8,8 @@ Optional information may be provided which can include WTCL, water quality, no. 
 
 Releases:
 PiP_Android v1.0.0: An apk file for your local use in Android phones.
-PiP_HTML v1.0.1: An shareable HTML file for personal/public uses.
+
+PiP_HTML v1.0.1: A shareable HTML file for personal/public uses.
 
 Note:
 To open the PiPv1.0.0----> Copy paste the adddress in your search bar.
