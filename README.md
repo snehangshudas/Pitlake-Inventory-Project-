@@ -6,6 +6,10 @@ The general information which include Latitude, Longitude, Area, Elevation, Loca
 The persons submiting the data should take note of it.
 Optional information may be provided which can include WTCL, water quality, no. of floral species, no. of faunal species, pH etc.
 
+Releases:
+PiP_Android v1.0.0: An apk file for your local use in Android phones.
+PiP_HTML v1.0.1: An shareable HTML file for personal/public uses.
+
 Note:
 To open the PiPv1.0.0----> Copy paste the adddress in your search bar.
 It will fetch you the result.
