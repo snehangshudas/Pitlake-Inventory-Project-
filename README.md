@@ -17,4 +17,4 @@ It will fetch you the result.
 Project's Principal investigator: Dr. Santanu Gupta (Division of Wetland Ecology, SACON, Coimbatore, TN)
 email: dr_sansacon@yahoo.com; santanu.gupta77@yahoo.com
 
-For any issues/collaboration, contact administrator: snehangshudas@yandex.com
+For any submission/issues/collaboration, contact administrator: snehangshudas@yandex.com
