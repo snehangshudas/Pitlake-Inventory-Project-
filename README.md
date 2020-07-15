@@ -12,7 +12,7 @@ Optional information may be provided which can include WTCL, water quality, no. 
 [PiP_ArcGIS](PiPv1.0.0.0): An ArcGIS Online link for opening in ArcGIS platform
 
 ## Contributors
-`Mr. Snehangshu Das` (Shivaji University, Kolhapur, Maharashtra, India)
+`Mr. Snehangshu Das` (Department of Botany, Shivaji University, Kolhapur, Maharashtra, India)
 `Dr. Aparajita Mukherjee` (Division of Wetland Ecology, Salim Ali Centre for Ornithology, Tamil Nadu, India)
 `Dr. Santanu Gupta` (Division of Wetland Ecology, Salim Ali Centre for Ornithology, Tamil Nadu, India)
 
