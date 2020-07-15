@@ -8,7 +8,7 @@ Optional information may be provided which can include WTCL, water quality, no. 
 
 ## Releases
 [PiP](PiP_Android.apk): An apk file for your local use in Android phones.
-[PiP_HTML](Pitlake Inventory Project (EC).html): A shareable HTML file for personal/public uses.
+[PiP_HTML](PiP(EC).html): A shareable HTML file for personal/public uses.
 [PiP_ArcGIS](PiPv1.0.0.0): An ArcGIS Online link for opening in ArcGIS platform
 
 ## Contributors
