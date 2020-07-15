@@ -7,15 +7,19 @@ The persons submiting the data should take note of it.
 Optional information may be provided which can include WTCL, water quality, no. of floral species, no. of faunal species, pH etc.
 
 ## Releases
-PiP_Android v1.0.0: An apk file for your local use in Android phones.
+[PiP](PiP_Android.apk): An apk file for your local use in Android phones.
+[PiP](Pitlake Inventory Project (EC).html): A shareable HTML file for personal/public uses.
+[PiP](PiP v1.0.0.0): An ArcGIS Online link for opening in ArcGIS platform
 
-PiP_HTML v1.0.1: A shareable HTML file for personal/public uses.
+## Contributors
+`Mr. Snehangshu Das` (Shivaji University, Kolhapur, Maharashtra, India)
+`Dr. Aparajita Mukherjee` (Division of Wetland Ecology, Salim Ali Centre for Ornithology, Tamil Nadu, India)
+`Dr. Santanu Gupta` (Division of Wetland Ecology, Salim Ali Centre for Ornithology, Tamil Nadu, India)
 
-Note:
-To open the PiPv1.0.0----> Copy paste the adddress in your search bar.
-It will fetch you the result.
+## Contact Details
+For any submission/issues/collaboration, contact:
+Dr. Santanu Gupta ``email: dr_sansacon@yahoo.com; santanu.gupta77@yahoo.com``
+Mr. Snehangshu Das ``email: snehangshudas@yandex.com``
 
-Project's Principal investigator: Dr. Santanu Gupta (Division of Wetland Ecology, SACON, Coimbatore, TN)
-email: dr_sansacon@yahoo.com; santanu.gupta77@yahoo.com
-
-For any submission/issues/collaboration, contact administrator: snehangshudas@yandex.com
+## License
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details
