@@ -1,4 +1,4 @@
-# Pitlake-Inventory-Project-India-
+## Pitlake Inventory Project (India)
 The Pitlake Inventory Project aims to cover each and every Indian pit lake under one hood. 
 This would facilitate a better flow of information to the stakeholders and also would be beneficial to the pit lake researchers. 
 In this repository, anyone can submit an excel sheet with general information regarding pitlakes from their respective regions. 
@@ -6,7 +6,7 @@ The general information which include Latitude, Longitude, Area, Elevation, Loca
 The persons submiting the data should take note of it.
 Optional information may be provided which can include WTCL, water quality, no. of floral species, no. of faunal species, pH etc.
 
-Releases:
+## Releases
 PiP_Android v1.0.0: An apk file for your local use in Android phones.
 
 PiP_HTML v1.0.1: A shareable HTML file for personal/public uses.
